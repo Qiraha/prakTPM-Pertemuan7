@@ -1,6 +1,9 @@
-# dblocal
+# Shared Preference and Local DatabaseAssignment
 
-A new Flutter project.
+Afifrendra Rifqi Nugraha/123190012
+
+Youtube Link : https://youtu.be/700AKWQ18UI
+Github Link  : https://github.com/Qiraha/prakTPM-Pertemuan7
 
 ## Getting Started
 
